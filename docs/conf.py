@@ -21,7 +21,7 @@ html_static_path = ['_static']
 
 # ✅ Bing Verification Meta Tag (Correct Way)
 html_meta = {
-    "msvalidate.01": "2F459B246BE0946B6EA952543A684435"
+    "msvalidate.01": "0C930A4ADBB0E8FA189A9C17547982BF"
 }
 
 # Optional: Add custom CSS or JS (if needed)
